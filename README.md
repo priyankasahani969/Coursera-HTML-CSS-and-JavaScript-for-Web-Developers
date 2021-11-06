@@ -12,7 +12,7 @@
 
 # Outputs :
 
-* [Module-2](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-2/index.html)
-* [Module-3](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
-* [Module-4](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-4/index.html)
-* [Module-5](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-5/index.html)
+* [Module-2](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module-2/index.html)
+* [Module-3](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module-3/index.html)
+* [Module-4](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module-4/index.html)
+* [Module-5](https://priyankasahani969.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/module-5/index.html)
